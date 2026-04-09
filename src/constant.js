@@ -203,20 +203,20 @@ export const education = [
     {
         id: 2,
         img: vpsLogo,
-        school: "Nav Bharat Public School, Lakhimpur Kheri",
+        school: "Sant Ranjeet Singh Memorial Academy, Lakhimpur Kheri",
         date: "Apr 2021 - March 2022",
         grade: "90%",
-        desc: "Completed Class 12 education from Nav Bharat Public School, Lakhimpur Kheri, under the CBSE board, studying Physics, Chemistry, and Mathematics (PCM) with Physical Education as an additional subject.",
+        desc: "Completed Class 12 education from Sant Ranjeet Singh Memorial Academy, Lakhimpur Kheri, under the CBSE board, studying Physics, Chemistry, and Mathematics (PCM) with Physical Education as an additional subject.",
         degree: "CBSE (XII) - PCM with Physical Education",
     },
 
     {
         id: 3,
         img: vpsLogo,
-        school: "Nav Bharat Public School, Lakhimpur Kheri",
+        school: "Sant Ranjeet Singh Memorial Academy, Lakhimpur Kheri",
         date: "Apr 2019 - March 2020",
         grade: "97%",
-        desc: "Completed Class 10 education from Nav Bharat Public School, Lakhimpur Kheri, under the CBSE board, studying Science with Computer Application.",
+        desc: "Completed Class 10 education from Sant Ranjeet Singh Memorial Academy, Lakhimpur Kheri, under the CBSE board, studying Science with Computer Application.",
         degree: "CBSE (X) - Science with Computer Application",
     },
 ];
