@@ -35,7 +35,7 @@ const About = () => {
                                     "App Developer",
                                     "UI/UX Designer",
                                     "Coder",
-                                    "AI/ML Engineer",
+                                    "AI/ML Enthusiast",
                                 ]}
                                 loop={0}
                                 cursor
